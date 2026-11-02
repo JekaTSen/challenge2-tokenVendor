@@ -1,3 +1,12 @@
+# tokenVendor Challenge - Speedrun Ethereum
+
+- Frontend: https://speedruneth3.vercel.app
+- Contract1 (ERC20): https://sepolia.etherscan.io/token/0x046364ffd0C958Ea3323CaFb02FaA7bBe33B133d
+- Contract2 (Vendor): https://sepolia.etherscan.io/address/0xE0bdcCE05302e106b57F5A443B8bA0ac034C0506
+
+
+
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
